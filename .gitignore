@@ -1,3 +1,20 @@
+# macOS
 .DS_Store
-.DS_Store
-.DS_Store
+
+# Maven build
+target/
+
+# Java
+*.class
+*.log
+
+# Eclipse/IntelliJ/VSCode (just in case)
+.idea/
+.project
+.classpath
+.settings/
+.vscode/
+
+# OS backup files
+*.swp
+*.swo
